@@ -10,7 +10,7 @@ While I went to school at SDSM&T, the grading system varied from professor to pr
  
 This tool allows the user to input information that relates their courses, stores it within a database, to utilize the tools to gain further insight of how they are currently doing in their courses and what areas need focus. Incase the database is unavailable or fails to connect, the program does consistently saves the course information in a filesystem. The interface to view, input, and modify this information is super user friendly and allows for quick edits to multiple parts. Adding grades is the same process as well.
 
-ADD GIF HERE
+![](SH2.0CourseEditor.gif)
 
 When all the information is in the program, then we can view the grade information for the course, and have an insight of my overall performance. Here is what the following we can view and what the program calculates for us:
 * What the current grade is (both as a percentage and a letter).
@@ -19,7 +19,7 @@ When all the information is in the program, then we can view the grade informati
 * How much of my overall grade I am losing from each category.
 * How much of the category is completed.
 
-ADD GIF HERE
+![](SH2.0GradeViewer.gif)
  
 #### Note:
 
